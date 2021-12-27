@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OliverMount
+- 👋 Hi, I’m @Oliver 
 - 👀 I’m interested in Computational Neuroscience and Signal Processing in general
 - 🌱 I’m currently learning Large Scale Neural Network Modeling using both Spike and Rate neural models
 - 💞️ I’m looking to collaborate on anything related to Computational Neuroscience
