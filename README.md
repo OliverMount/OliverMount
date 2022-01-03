@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Oliver 
-- 👀 I’m interested in Computational Neuroscience and Signal Processing in general
-- 🌱 I’m currently learning Large Scale Neural Network Modeling using both Spike and Rate neural models
-- 💞️ I’m looking to collaborate on anything related to Computational Neuroscience
+- 👋 Hi, I am Oliver 
+- 👀 I am interested in Computational Neuroscience and Signal Processing in general
+- 🌱 I am currently learning Large Scale Neural Network Modeling using both Spike and Rate neural models
+- 💞️ I am looking to collaborate on anything related to Computational Neuroscience
 - 📫 How to reach me ...
 
 <!---
