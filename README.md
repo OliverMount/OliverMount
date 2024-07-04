@@ -1,7 +1,7 @@
 - 👋 Hi, I am Oliver 
-- 👀 I am interested in computational neuroscience and signal processing in general
-- 🌱 I am currently studying large-scale bio-physical modeling of brain 
-- 💞️ I am looking to collaborate on reseach topics related to Computational Neuroscience or Signal Processing
+- 👀 Currently, I study how the brain works.
+- 🌱 I try to understand the brain mechanism via computational models using digital signal processing theories, in general
+- 💞️ I am looking to collaborate on reseach topics related to computational neuroscience or signal processing
 - 📫 Reach me at  ...
 
 <!---
