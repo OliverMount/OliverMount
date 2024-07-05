@@ -1,6 +1,6 @@
 - 👋 Hi, I am Oliver 
 - 👀 Currently, I study how the brain works. 
-- 🌱 I try to understand the brain mechanism via computational models using digital signal processing theories, in general
+- 🌱 I try to understand the brain mechanism via computational models and digital signal processing theories, in general
 - 💞️ I am looking to collaborate on reseach topics related to computational neuroscience or signal processing
 - 📫 Reach me at  ...
 
