@@ -2,7 +2,7 @@
 - 👀 I am continuously studying how the brain works. 
 - 🌱 I try to understand the brain mechanism via computational models and digital signal processing theories, in general
 - 💞️ I am looking to collaborate on reseach topics related to computational neuroscience or signal processing
-- 📫 Reach me at  oliver.mount.08@gmail.com ([webpage:](olivermount.github.io))
+- 📫 Reach me at  oliver.mount.08@gmail.com ([webpage:olivermount.github.io](olivermount.github.io))
   
 <!---
 OliverMount/OliverMount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
