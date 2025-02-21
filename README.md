@@ -3,9 +3,7 @@
 - 🌱 I try to understand the brain mechanism via computational models and digital signal processing theories, in general
 - 💞️ I am looking to collaborate on reseach topics related to computational neuroscience or signal processing
 - 📫 Reach me at  oliver.mount.08@gmail.com  
-
-
-    Remember-- Everything popular is wrong! 
+     Remember-- Everything popular is wrong! 
   
 <!---
 OliverMount/OliverMount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
