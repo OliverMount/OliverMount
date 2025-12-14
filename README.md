@@ -1,7 +1,7 @@
-- 👋 Hi, I am Oliver 
-- 👀 I am studying how the brain works. 
-- 🌱 I try to understand the brain mechanism via computational models and digital signal processing theories, in general
-- 💞️ I am seeking opportunities to collaborate on research topics in computational neuroscience or signal processing.
+- 👋 Hi, I’m Oliver, a signal processing enthusiast with a strong interest in the mathematical foundations of complex systems.
+- 👀 My work focuses on the mathematical principles and computational frameworks underlying natural and engineered systems.
+- 🌱 I am particularly interested in understanding brain mechanisms through computational modeling and digital signal processing theories.
+- 💞️ I am actively seeking opportunities to collaborate on research in computational neuroscience and signal processing.
 - 📫 Reach me at  oliver.mount.08@gmail.com  
       
   
