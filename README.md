@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oliver, a signal processing enthusiast with a strong interest in the mathematical foundations of complex systems.
-- 👀 My work focuses on the mathematical principles and computational frameworks underlying natural and engineered systems.
-- 🌱 I am particularly interested in understanding brain mechanisms through computational modeling and digital signal processing theories.
-- 💞️ I am actively seeking opportunities to collaborate on research in computational neuroscience and signal processing.
+- 👋 Hi, I am Oliver, a signal processing enthusiast.
+- 👀 I work on the mathematical and computational principles behind systems in nature.
+- 🌱 I am trying to understand brain mechanisms through computational models and digital signal processing.
+- 💞️ I am looking to collaborate on research in computational neuroscience and signal processing.
 - 📫 Reach me at  oliver.mount.08@gmail.com  
       
   
